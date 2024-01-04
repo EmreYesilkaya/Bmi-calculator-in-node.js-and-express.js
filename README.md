@@ -22,12 +22,12 @@ npm install
 Running the App
 To start the app, run the following command in your terminal:
 
-'''bash
+''' bash
 Copy code
 node app.js
 The server will start on port 3000. You can access the BMI calculator at http://localhost:3000.
 
-##Usage
+## Usage
 Navigate to the provided URL.
 Enter your height (in meters) and weight (in kilograms) in the form fields.
 Click Submit to view your BMI.
